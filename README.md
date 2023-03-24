@@ -16,7 +16,7 @@ Output Voltage : 9V, 12V
 ---
 
 
-![image](https://user-images.githubusercontent.com/82855221/227509215-29938758-b814-43d7-ada5-eb7a9bfb33e3.png)
+![image](https://user-images.githubusercontent.com/82855221/227509340-a195b881-08eb-4080-8c53-f63f9bc91797.png)
 
 Dimensions : 103.505mm x 53.34mm (w x l)
 Compatible with UNO R3 board
