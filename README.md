@@ -15,7 +15,9 @@ Output Voltage : 9V, 12V
 
 ---
 
-![image](https://user-images.githubusercontent.com/82855221/227508887-8364d9cc-03ec-49d5-9a40-3bbea4fd2255.png)
+
+![image](https://user-images.githubusercontent.com/82855221/227509215-29938758-b814-43d7-ada5-eb7a9bfb33e3.png)
+
 Dimensions : 103.505mm x 53.34mm (w x l)
 Compatible with UNO R3 board
 
@@ -23,6 +25,7 @@ Compatible with UNO R3 board
 ---
 
 
-![image](https://user-images.githubusercontent.com/82855221/227508981-d626081c-e2c3-42d4-a349-017c2fd3a75a.png)
+![image](https://user-images.githubusercontent.com/82855221/227509186-187cc6c5-b5d1-451d-bca0-b80eeafc1f18.png)
+
 Power switch :  Turn on and off DC 7~12V power
 STBY switch :  Turn on and off Motor driver
